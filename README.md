@@ -1,21 +1,18 @@
-# Hi there, I'm Abdul Rahman 👋
+# Hi, I'm Abdul Rahman 👋
 
-**Machine Learning Engineer | SaaS Founder | Automation Specialist**
+I am an Electrical Engineering student bridging the gap between renewable energy infrastructure and project finance. I specialize in the technical design of solar installations and the financial modeling required to make them commercially viable.
 
-I specialize in building custom AI automations, RAG pipelines, and deploying scalable backend architectures to solve real business bottlenecks. Currently building SaaS products and sharing my engineering journey in public.
+### 🛠️ Core Engineering Focus
+* **Solar PV Design:** Shadow-free roof assessments, array layout, and energy yield simulations using PVsyst.
+* **Financial Feasibility:** Building ROI models, auditing LESCO net-metering rates, and calculating exact payback periods for commercial clients.
+* **On-Site Operations:** Live voltage checks, continuity testing, and infrastructure evaluation.
 
-### 🛠️ Core Tech Stack
-* **Languages:** Python, JavaScript, Bash
-* **AI & Data:** LLMs, LangChain, RAG, Pandas, Hugging Face
-* **Backend & Infra:** FastAPI, Node.js, Docker, Linux (Ubuntu/Debian), DigitalOcean
-* **Workflows:** n8n, GitHub Actions, Webhooks
+### 🚀 What I'm Doing
+I am currently working as an independent solar project consultant and freelance PV designer, helping business owners in Lahore transition to green energy without falling for mathematically unsound quotes.
 
-### 🚀 What I'm Up To
-* 🏢 Scaling my ML agency by building intelligent automations for clients.
-* 💻 Engineering my first B2B SaaS product, Zieloq, from the ground up.
-* ✍️ Documenting system design and AI workflows on my blog.
+### ⚡ Tech Stack & Tools
+* **Engineering:** PVsyst, Multimeter Testing, Electrical Layouts
+* **Finance & Ops:** ROI Modeling, LESCO Tariff Analysis, Technical Sales
+* **Software:** Python, Google Apps Script, Odoo
 
-### 📫 Connect with Me
-* **X (Twitter):** [Follow my build journey](https://x.com/abdulrahmanpy)
-* **LinkedIn:** [Connect for business inquiries](https://www.linkedin.com/in/abdul-rahman-mian-gee-0b208a324/)
-* **Dev.to:** [Read my technical logs](https://dev.to/abdulrahmanpy)
+📫 **Let's Connect:** [https://www.linkedin.com/in/abdul-rahman-mian-gee-0b208a324?utm_source=share_via&utm_content=profile&utm_medium=member_android]
